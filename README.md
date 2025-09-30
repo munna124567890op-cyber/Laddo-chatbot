@@ -38,7 +38,7 @@
     ─「 ❣️ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❣️ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/munna124567890op-cyber/Laddo-chatbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz/AAROHIxCHATBOTv2"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -69,15 +69,15 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ [Love❣️] 」─
+    ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
 </h3>
 
 <p align="center">
-<a href="https://t.me/LOVE_BFF_PFP"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LOVE_FEELINGS_WILL1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/LOVE_BFF_PFP"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LOVE_FEELINGS_WILL"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -108,9 +108,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/i_t_z_broken"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Love" /> </a>
+<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [love](https://github.com/stkeditz) ғᴏʀ [heer musicbot](https://github.com/stkeditz/AAROHIxMUSICv2) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv2) </b>
