@@ -104,7 +104,7 @@ async def start(_, m: Message):
 ━━━━━━━━━━━━━━
 <b>||💬 ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ!||</b>
 
-<b>🧑‍💻 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/dil_sagar_121'>ᴅɪʟ❣️</a></b>""",
+<b>💞 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/i_t_z_broken'>ʟᴏᴠᴇ 💞</a></b>""",
             reply_markup=InlineKeyboardMarkup(DEV_OP),
         )
         await add_served_user(m.from_user.id)
