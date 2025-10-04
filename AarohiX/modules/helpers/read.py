@@ -2,7 +2,7 @@ from config import OWNER_USERNAME, SUPPORT_GRP
 from AarohiX import AarohiX
 
 START = f"""
-**🌟 ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌟**
+**♲︎︎︎ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ ♲︎︎︎**
 
 **ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜᴇ ғᴜᴛᴜʀᴇ ᴏғ ᴄʜᴀᴛʙᴏᴛs ᴡɪᴛʜ [{AarohiX.name}](t.me/{AarohiX.username})!**
 **ᴇɴɧᴀɴᴄɪɴɢ ᴄᴏᴍᴍᴜɴɪᴄᴀᴛɪᴏɴs, ᴏɴʟɪɴᴇ, ᴡɪᴛʜ ɪɴᴛᴇʟʟɪɢᴇɴᴄᴇ!**
