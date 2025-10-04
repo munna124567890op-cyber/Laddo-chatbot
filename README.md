@@ -13,12 +13,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv5/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxCHATBOTv5?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv5/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxCHATBOTv5?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv5/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/AAROHIxCHATBOTv5/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AAROHIxCHATBOTv5?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>   
+<a href="https://github.com/stkeditz/AAROHIxCHATBOTv2/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AAROHIxCHATBOTv2?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>   
 <a href="https://GitHub.com/stkeditz"> <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love"></a>
 </p>
 
@@ -46,11 +46,11 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/stkeditz/AAROHIxCHATBOTv9/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/stkeditz/AAROHIxCHATBOTv2/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Clone the repository by :
-`git clone https://github.com/stkeditz/AAROHIxCHATBOTv10 && cd AAROHIxCHATBOTv22222`
+`git clone https://github.com/stkeditz/AAROHIxCHATBOTv2 && cd AAROHIxCHATBOTv2
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -113,4 +113,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʟᴏᴠᴇ](https://github.com/stkeditz) ғᴏʀ [ʜᴇᴇʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv222) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʟᴏᴠᴇ](https://github.com/stkeditz) ғᴏʀ [ʜᴇᴇʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv2) </b>
