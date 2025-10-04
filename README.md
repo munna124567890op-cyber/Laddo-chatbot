@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
+<p align="center"><a href="https://t.me/i_t_z_broken"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -113,4 +113,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʟᴏᴠᴇ](https://github.com/stkeditz) ғᴏʀ [ʜᴇᴇʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv2) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʟᴏᴠᴇ](https://github.com/stkeditz) ғᴏʀ [ʜᴇᴇʀ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/stkeditz/AAROHIxMUSICv3) </b>
