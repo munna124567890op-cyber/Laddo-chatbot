@@ -81,11 +81,11 @@ async def start(_, m: Message):
             text=random.choice(EMOJIOS),
         )
         await asyncio.sleep(1.3)
-        await accha.edit("Ꭻᴀʏ")
+        await accha.edit("Ꭻᴀʏ Sʜʀᴇᴇ")
         await asyncio.sleep(0.2)
         await accha.edit("ᎫᴀʏㅤᏚʜʀᴇᴇ")
         await asyncio.sleep(0.2)
-        await accha.edit("🙏|| ᎫᴀʏㅤᏚʜʀᴇᴇㅤᏒᴀᴍ ||🙏")
+        await accha.edit("🙏|| Rᴀᴅʜᴇʏ Kʀɪsʜɴᴀ ||🙏")
         await asyncio.sleep(0.2)
         await accha.delete()
         umm = await m.reply_sticker(sticker=random.choice(STICKER))
@@ -93,7 +93,7 @@ async def start(_, m: Message):
         await umm.delete()
         await m.reply_photo(
             photo=random.choice(IMG),
-            caption=f"""**🌟 ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌟**
+            caption=f"""**♲︎︎︎ ɪɴɴᴏᴠᴀᴛɪᴠᴇ ᴀɪ ᴅᴇᴠᴇʟᴏᴘᴇʀ ♲︎︎︎**
             
 **ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴛʜᴇ ғᴜᴛᴜʀᴇ ᴏғ ᴄʜᴀᴛʙᴏᴛs ᴡɪᴛʜ
 
